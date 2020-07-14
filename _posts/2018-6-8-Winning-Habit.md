@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Winning is a habit!
+title: Why everyone should know how it feels like winning!
 ---
 
 Winning is a habit.
