@@ -14,5 +14,7 @@ layout: default
   </div>
 
   {% include disqus.html %}
-
+{% if page.categories contains "booknotes" %}
+  {% include subscribe_mc.html %}
+{% endif %}
 </article>
