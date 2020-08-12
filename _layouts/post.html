@@ -4,7 +4,9 @@ layout: default
 
 <article class="post">
   <h1>{{ page.title }}</h1>
-
+{% if page.categories contains "booknotes" %}
+<b>Note</b>: Whenever I read any book, I take notes to make sure I don't miss or forget its key learnings. These notes are a way for me to come back and read them to refresh them in my mind. I hope you find it useful as well
+{% endif %}
   <div class="entry">
     {{ content }}
   </div>
@@ -15,6 +17,10 @@ layout: default
 
   {% include disqus.html %}
 {% if page.categories contains "booknotes" %}
+
   {% include subscribe_mc.html %}
 {% endif %}
+
+I post updates on twitter at <a href="https://twitter.com/iRhythmGupta">@iRhythmGupta</a>. Follow to stay updated!
+
 </article>
