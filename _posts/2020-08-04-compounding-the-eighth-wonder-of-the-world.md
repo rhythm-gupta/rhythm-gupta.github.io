@@ -7,7 +7,7 @@ When I was a child, I used to go to my grandmother's (nani) house every summer f
 
 She only had a limited number of stories, but still, I loved hearing them from her repeatedly. A few have stuck with me over time, and one of them goes like this -
 
->A king was fond of music, so one day, he asked his ministers to get the best singer in the town to sing for him. All of his ministers worked extremely hard, found the best musician in the city and he sang for a personal concert for the kind. The king was delighted and overjoyed.
+>A king was fond of music, so one day, he asked his ministers to get the best singer in the town to sing for him. All of his ministers worked extremely hard, found the best musician in the city and he sang for a personal concert for the king. The king was delighted and overjoyed.
 
 >The king was so impressed with the performance that he now wanted to hire the singer full time in his council, but the singer hated the idea. He wanted to be free, sing songs in new cities, travel, and explore the world. So the king made him an offer - "You could ask for whatever you want", he said.The singer was smart. He didn't want to join the council but he didn't want to offend the king as well.
 
@@ -25,7 +25,7 @@ Compounding essentially says that small contributions over a long period can giv
 
 You might have heard about compounding in investing. If you haven't, let’s take an example to understand its power - let's say you invest Rs. 20,000 out of your first salary at the age of 22 in HDFC Bank, which gives 20% annual growth.
 
-This is how your money will be at the end of 10,20,30,40 years (i.e., when you'll be 32,42,52,62 years old) -
+This is how your money will be after 10,20,30, and 40 years (i.e when you'll be 32,42,52, or 62 years old) -
 
 ![Growth of 20k Rs over 40 years](/images/compounding20pct40yrs.png)
 
