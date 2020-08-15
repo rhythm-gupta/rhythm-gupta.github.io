@@ -17,14 +17,13 @@ The ten principles that strike Bob Iger as necessary to true leadership.
 
 - **Courage**. The foundation of risk-taking is courage, and in ever-changing, disrupted businesses, risk-taking is essential, innovation is vital, and true innovation occurs only when people have courage. This is true of acquisitions, investments, and capital allocations, and it particularly applies to creative decisions. Fear of failure destroys creativity.
 
-- **Focus**. Allocating time, energy, and resources to the strategies, problems, and projects that are of
-mmunicate your priorities clearly and often.
+- **Focus**. Allocating time, energy, and resources to the strategies, problems, and projects that are of highest importance and value is extremely important, and it's imperative to communicate your priorities clearly and often.
 
 - **Decisiveness**. All decisions, no matter how difficult, can and should be made in a timely way. Leaders must encourage a diversity of opinion balanced with the need to make and implement decisions. Chronic indecision is not only inefficient and counterproductive, but it is deeply corrosive to morale.
 
 - **Curiosity**. A deep and abiding curiosity enables the discovery of new people, places, and ideas, as well as an awareness and an understanding of the marketplace and its changing dynamics. The path to innovation begins with curiosity.
 
-- **Fairness**. Strong leadership embodies the fair and decent treatment of people. Empathy is essential, as is accessibility. People committing honest mistakes deserve second chances, and judging people too harshly generates fear and anxiety, which discourage communication and innovation. Nothing is
+- **Fairness**. Strong leadership embodies the fair and decent treatment of people. Empathy is essential, as is accessibility. People committing honest mistakes deserve second chances, and judging people too harshly generates fear and anxiety, which discourage communication and innovation.
 
 - **Thoughtfulness**. Thoughtfulness is one of the most underrated elements of good leadership. It is the process of gaining knowledge, so an opinion rendered or decision made is more credible and more likely to be correct. It’s simply about taking the time to develop informed opinions.
 
