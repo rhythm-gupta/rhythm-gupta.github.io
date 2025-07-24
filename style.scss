@@ -281,6 +281,79 @@ footer {
   padding: 0;
 }
 
+//
+// Blog subscription section
+//
+
+.subscription-section {
+  background-color: #F8F6F0;
+  border: 1px solid #E6E0D0;
+  border-radius: 6px;
+  padding: 18px;
+  margin-top: 30px;
+  text-align: center;
+}
+
+.subscription-title {
+  color: $darkerGray;
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.subscription-description {
+  color: $gray;
+  font-size: 0.95em;
+  line-height: 1.4;
+  margin-bottom: 15px;
+}
+
+.subscription-button {
+  background-color: $darkerGray;
+  color: $white;
+  padding: 10px 22px;
+  border: none;
+  border-radius: 5px;
+  font-size: 1em;
+  font-weight: bold;
+  text-decoration: none;
+  display: inline-block;
+  transition: background-color 0.3s ease;
+
+  &:hover, &:active {
+    background-color: darken($darkerGray, 10%);
+    color: $white;
+    text-decoration: none;
+  }
+}
+
+//
+// Blog list styling
+//
+
+.blog-list-row {
+  display: flex;
+  align-items: baseline;
+  margin-bottom: 0.7em;
+}
+
+.blog-list-date {
+  color: #888;
+  min-width: 90px;
+  font-size: 1.05em;
+  margin-right: 0.5em;
+}
+
+.blog-list-title a {
+  color: $darkerGray;
+  text-decoration: none;
+  font-size: 1.13em;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";

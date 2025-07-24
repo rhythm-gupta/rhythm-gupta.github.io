@@ -4,28 +4,6 @@ title: Inner Musings
 permalink: /blog/
 ---
 
-<style>
-.blog-list-row {
-  display: flex;
-  align-items: baseline;
-  margin-bottom: 0.7em;
-}
-.blog-list-date {
-  color: #888;
-  min-width: 90px;
-  font-size: 1.05em;
-  margin-right: 0.5em;
-}
-.blog-list-title a {
-  color: #5B553A;
-  text-decoration: none;
-  font-size: 1.13em;
-}
-.blog-list-title a:hover {
-  text-decoration: underline;
-}
-</style>
-
 <div>
   {% for post in site.posts %}
     {% if post.categories contains "booknotes" %}
@@ -36,4 +14,12 @@ permalink: /blog/
       </div>
     {% endif %}
   {% endfor %}
-</div> 
+</div>
+
+<div class="subscription-section">
+  <div class="subscription-title">Get these directly in your inbox</div>
+  <div class="subscription-description">
+    Thoughts on building companies, AI × Commerce, and startup lessons from someone who's scaled companies beyond $100M+.
+  </div>
+  <a href="https://rhythm.substack.com" class="subscription-button" target="_blank">Subscribe</a>
+</div>
