@@ -63,7 +63,7 @@ Last Updated on: 2nd July 2025
 #### Cibola (Founder, ~ 1.5 years, 2013-15)
 - Started the company with two of my best friends, <a href="https://www.linkedin.com/in/misbahashraf/" target="_blank">Misbah</a> and <a href="https://www.linkedin.com/in/sagarpatidar/" target="_blank">Sagar</a>
 - Cibola was the first 'chat & pay' app in India. We were inspired by Venmo in US. <a href="https://www.youtube.com/watch?v=RBBVo1IAgog" target="_blank">video</a>
-- We dropped out of our respective colleges to build the product and also raised a seed round from some angels
+- We dropped out of our respective colleges to build the product and also raised a seed round from some angels <a href="http://web.archive.org/web/20211215204134/https://indianexpress.com/article/education/iit-dropout-series-ambala-boy-dropped-out-of-iit-delhi-to-join-a-start-up-now-owns-food-tech-brand-easy-eat-7633857/" target="_blank">press</a>
 - Realized that regulatory challenges wouldn't let us build the dream product, returned investors money (some post earning it even after 1+ years)
 - Learnt a ton and had lots of fun..
 
