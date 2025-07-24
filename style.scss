@@ -46,9 +46,6 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 30px;
-  a {
-    color: inherit;
-  }
 }
 
 h2 {
@@ -69,8 +66,8 @@ p {
 }
 
 a {
-  color: $blue;
-  text-decoration: none;
+  color: $darkGray;
+  text-decoration: underline;
 	cursor: pointer;
   &:hover, &:active {
     color: $blue;
@@ -200,6 +197,11 @@ img {
   letter-spacing: 1px;
 }
 
+.site-name a {
+  color: inherit;
+  text-decoration: none;
+}
+
 .site-description {
   margin: -5px 0 0 0;
   color: $gray;
@@ -232,7 +234,6 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
     }
   }
 }
@@ -272,15 +273,12 @@ nav {
 }
 
 .wrapper-footer {
-  margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  margin-top: 80px;
+  padding-bottom: 100px;
 }
 
 footer {
-  padding: 20px 0;
-  text-align: center;
+  padding: 0;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS

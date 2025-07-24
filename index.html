@@ -1,22 +1,19 @@
 ---
 layout: default
+title: Home
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
+<div style="display: flex; align-items: center; justify-content: center; min-height: 60vh; gap: 3rem; flex-wrap: wrap;">
+  <div style="flex: 2; min-width: 300px;">
+    <h1 style="font-size: 2.5rem; font-weight: bold; margin-bottom: 1.5rem;">Hi, I'm Rhythm Gupta!</h1>
+    <p style="font-size: 1.25rem; color: #555; line-height: 1.7;">I’m an engineer, entrepreneur, and perpetual optimist about technology’s power to solve real-world problems. </p>
+      
+    <p style="font-size: 1.25rem; color: #555; line-height: 1.7;">I have over a decade of experience in building and scaling startups. Read more about my <a href="/work">work</a>.</p>
+    <p style="font-size: 1.25rem; color: #555; line-height: 1.7;">I currently live in Gurgaon, India and previously studied Computer Science at IIT-Delhi.</p> 
 
-    {% if post.categories contains "booknotes" %}
-    {% else %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-    {% endif %}
-  {% endfor %}
+    Socials: <a target="_blank" href="https://twitter.com/iRhythmGupta">Twitter</a>. <a target="_blank" href="https://linkedin.com/in/rhythmgupta">LinkedIn</a>. <a target="_blank" href="https://rhythm.substack.com">Substack</a>. 
+  </div>
+  <div style="flex: 1; min-width: 200px; display: flex; justify-content: center;">
+    <img src="/images/profile.jpg" alt="Profile photo" style="width: 220px; height: 220px; object-fit: cover; border-radius: 50%; box-shadow: 0 2px 12px rgba(0,0,0,0.08);" />
+  </div>
 </div>
