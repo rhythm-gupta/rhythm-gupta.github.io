@@ -69,6 +69,6 @@ Last Updated on: 2nd July 2025
 
 #### Education
 
-- Got AIR - 27 in IIT JEE 2011, studied CS there. 
+- Got AIR - 27 in IIT JEE 2011, studied CS there. <a href="https://www.tribuneindia.com/2011/20110526/chd.htm" target="_blank">press</a>
 - Got selected for International Physics Olympiad - nationwide and was invited to Mumbai at Homi Bhabha center
 - Loves reading about Math, Physics, CS, Philosophy, Economics (in that order)
