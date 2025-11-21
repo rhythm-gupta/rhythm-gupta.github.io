@@ -7,7 +7,7 @@ Last Updated on: 2nd July 2025
 
 #### Advisor & Angel Investor (2020 - now)
 * <b>Defense / Industrial Robotics & Deep-Tech</b> (_currently, very interested here_)
-  * Sharang Shakti, Armatrix
+  * Sharang Shakti (anti-drone systems), Armatrix (robotic arms), Rekise Marine (autonomous submarines)
 
 * <b>FinTech / Wealth & Markets</b>
   * Jar, Probo, Crest Capital

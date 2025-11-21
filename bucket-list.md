@@ -54,3 +54,7 @@ Here's a list of things that I wish to do before I die
 <!-- Add more items as you dream them up! -->
 
 ---
+
+<div style="text-align: center; margin-top: 3rem;">
+  <img src="/images/bucket-list.png" alt="Bucket List - All Items Complete! A Life Well Lived" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+</div>
