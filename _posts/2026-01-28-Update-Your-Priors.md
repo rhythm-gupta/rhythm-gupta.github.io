@@ -21,7 +21,7 @@ In 2007, Steve Ballmer laughed at the iPhone. "There's no chance that the iPhone
 
 But then the evidence started pouring in. Consumers loved the touchscreen. App developers flooded in. The entire mobile ecosystem shifted. And yet, Microsoft didn't update its prior. They kept building Windows Phone as if the old rules still applied. By the time they acknowledged the shift, the game was already over.
 
-Contrast that with Satya Nadella, who inherited the same company years later and did the opposite. He looked at the evidence - cloud was eating software, open source was winning, mobile-first was real - and completely rewrote Microsoft's priors. He killed sacred cows, embraced Linux, bet everything on Azure. The stock went from $40 to $400.
+Contrast that with Satya Nadella, who inherited the same company years later and did the opposite. He looked at the evidence - cloud was eating software, open source was winning, mobile-first was real - and completely rewrote Microsoft's priors. He embraced Linux, bet everything on Azure. The stock went from $40 to $400.
 
 Same company. Same resources. The difference was one leader who refused to update his priors, and another who made it his entire operating system.
 
