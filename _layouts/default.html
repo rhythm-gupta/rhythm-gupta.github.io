@@ -12,7 +12,6 @@
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
     {% seo %}
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
 
   <body>
@@ -24,9 +23,9 @@
           </div>
 
           <nav>
-            <a href="{{ site.baseurl }}/bucket-list">Bucket List</a>
-            <a href="{{ site.baseurl }}/blog">Blog</a>
-            <a href="{{ site.baseurl }}/work">Work</a>
+            <a href="{{ site.baseurl }}/bucket-list" {% if page.permalink == '/bucket-list/' %}class="nav-active"{% endif %}>Bucket List</a>
+            <a href="{{ site.baseurl }}/blog" {% if page.permalink == '/blog/' or page.layout == 'post' %}class="nav-active"{% endif %}>Blog</a>
+            <a href="{{ site.baseurl }}/work" {% if page.permalink == '/work/' %}class="nav-active"{% endif %}>Work</a>
           </nav>
         </header>
       </div>
