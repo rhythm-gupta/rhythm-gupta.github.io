@@ -1,6 +1,7 @@
 ---
 layout: post
 title: AI Reinforcement Loops - The New Moat
+image: ai-reinforcement-loops.png
 ---
 
 ![AI Reinforcement Loops](/images/ai-reinforcement-loops.png)

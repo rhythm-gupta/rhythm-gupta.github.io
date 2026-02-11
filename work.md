@@ -3,7 +3,7 @@ layout: page
 permalink: /work/
 ---
 
-Last Updated on: 2nd July 2025
+Last Updated on: 11th February 2026
 
 #### Advisor & Angel Investor (2020 - now)
 * <b>Defense / Industrial Robotics & Deep-Tech</b> (_currently, very interested here_)

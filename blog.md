@@ -9,7 +9,7 @@ permalink: /blog/
     {% if post.categories contains "booknotes" %}
     {% else %}
       <div class="blog-list-row">
-        <span class="blog-list-date">{{ post.date | date: "%b '%Y" }}</span>
+        <span class="blog-list-date">{{ post.date | date: "%b %Y" }}</span>
         <span class="blog-list-title"><a href="{{ post.url }}">{{ post.title }}</a></span>
       </div>
     {% endif %}

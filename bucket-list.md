@@ -7,8 +7,7 @@ permalink: /bucket-list/
 
 My core life philosophy is to be **1% better every day**. 
 
-Here's a list of things that I wish to do before I die
-
+Here's a list of things that I wish to do before I die — **2 down, 17 to go!**
 
 ---
 

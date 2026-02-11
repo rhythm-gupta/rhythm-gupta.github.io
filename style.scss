@@ -354,6 +354,115 @@ footer {
   }
 }
 
+//
+// Post meta (date + reading time)
+//
+
+.post-meta {
+  color: $gray;
+  font-size: 0.95em;
+  margin-bottom: 1.5em;
+}
+
+//
+// Share links
+//
+
+.share-links {
+  margin-top: 2em;
+  padding-top: 1em;
+  border-top: 1px solid $lightGray;
+  font-size: 0.95em;
+  color: $gray;
+
+  a {
+    color: $darkerGray;
+    font-weight: 500;
+    margin: 0 2px;
+
+    &:hover {
+      color: $blue;
+    }
+  }
+}
+
+//
+// Post footer
+//
+
+.post-footer-links {
+  margin-top: 2em;
+
+  a {
+    font-size: 0.95em;
+    color: $gray;
+
+    &:hover {
+      color: $blue;
+    }
+  }
+}
+
+.post-footer-socials {
+  margin-top: 1em;
+  color: $gray;
+  font-size: 0.95em;
+
+  a {
+    color: $darkerGray;
+    &:hover {
+      color: $blue;
+    }
+  }
+}
+
+//
+// Blog list excerpt
+//
+
+.blog-list-excerpt {
+  display: block;
+  color: $gray;
+  font-size: 0.88em;
+  line-height: 1.4;
+  margin-top: 2px;
+}
+
+//
+// Homepage social links
+//
+
+.social-links {
+  margin-top: 1.5rem;
+  font-size: 1.1rem;
+
+  a {
+    color: $darkerGray;
+    text-decoration: none;
+    margin-right: 1.2em;
+    font-weight: 500;
+    border-bottom: 1px solid $lightGray;
+    padding-bottom: 2px;
+
+    &:hover {
+      color: $blue;
+      border-bottom-color: $blue;
+    }
+  }
+}
+
+//
+// Footer
+//
+
+.footer-text {
+  text-align: center;
+  color: $gray;
+  font-size: 0.85em;
+  border-top: 1px solid $lightGray;
+  padding-top: 1.5em;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";

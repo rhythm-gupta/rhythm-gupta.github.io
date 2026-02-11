@@ -4,6 +4,14 @@ layout: default
 
 <article class="post">
   <h1>{{ page.title }}</h1>
+
+  {% assign words = content | number_of_words %}
+  {% assign minutes = words | divided_by: 200 %}
+  {% if minutes < 1 %}{% assign minutes = 1 %}{% endif %}
+  <div class="post-meta">
+    {{ page.date | date: "%B %e, %Y" }} &middot; {{ minutes }} min read
+  </div>
+
 {% if page.categories contains "booknotes" %}
 <b>Note</b>: Whenever I read any book, I take notes to make sure I don't miss or forget its key learnings. These notes are a way for me to come back and read them to refresh them in my mind. I hope you find it useful as well
 {% endif %}
@@ -11,8 +19,11 @@ layout: default
     {{ content }}
   </div>
 
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
+  <div class="share-links">
+    Share:
+    <a href="https://twitter.com/intent/tweet?text={{ page.title | uri_escape }}&url={{ site.url }}{{ page.url | uri_escape }}" target="_blank" rel="noopener">Twitter</a>
+    &middot;
+    <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ site.url }}{{ page.url | uri_escape }}" target="_blank" rel="noopener">LinkedIn</a>
   </div>
 
   {% include disqus.html %}
@@ -21,6 +32,12 @@ layout: default
   {% include subscribe_mc.html %}
 {% endif %}
 
-I post updates on twitter at <a href="https://twitter.com/iRhythmGupta">@iRhythmGupta</a>. Follow to stay updated!
+  <div class="post-footer-links">
+    <a href="/blog">&larr; Back to Blog</a>
+  </div>
+
+  <div class="post-footer-socials">
+    Follow me on <a target="_blank" href="https://twitter.com/iRhythmGupta">Twitter</a>, <a target="_blank" href="https://linkedin.com/in/rhythmgupta">LinkedIn</a>, or <a target="_blank" href="https://rhythm.substack.com">Substack</a>.
+  </div>
 
 </article>
