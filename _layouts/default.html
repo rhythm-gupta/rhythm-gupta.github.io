@@ -23,6 +23,7 @@
           </div>
 
           <nav>
+            <a href="{{ site.baseurl }}/quotes" {% if page.permalink == '/quotes/' %}class="nav-active"{% endif %}>Quotes</a>
             <a href="{{ site.baseurl }}/bucket-list" {% if page.permalink == '/bucket-list/' %}class="nav-active"{% endif %}>Bucket List</a>
             <a href="{{ site.baseurl }}/blog" {% if page.permalink == '/blog/' or page.layout == 'post' %}class="nav-active"{% endif %}>Blog</a>
             <a href="{{ site.baseurl }}/work" {% if page.permalink == '/work/' %}class="nav-active"{% endif %}>Work</a>
