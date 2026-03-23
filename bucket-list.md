@@ -1,9 +1,8 @@
 ---
 layout: page
+title: What do you want to do before you die?
 permalink: /bucket-list/
 ---
-
-# What do you want to do before you die?
 
 My core life philosophy is to be **1% better every day**. 
 

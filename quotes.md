@@ -1,9 +1,8 @@
 ---
 layout: page
+title: Quotes
 permalink: /quotes/
 ---
-
-# Quotes
 
 *Quotes have the power to change how you fundamentally think.*
 
