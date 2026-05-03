@@ -6,7 +6,7 @@ permalink: /bucket-list/
 
 My core life philosophy is to be **1% better every day**. 
 
-Here's a list of things that I wish to do before I die — **2 down, 17 to go!**
+Here's a list of things that I wish to do before I die — **3 down, 16 to go!**
 
 ---
 
@@ -41,7 +41,7 @@ Here's a list of things that I wish to do before I die — **2 down, 17 to go!**
     <li>Learn to play an instrument</li>
     <li>Have a 6 pack abs</li>
     <li>Learn to swim!</li>
-    <li>Surf in an ocean</li>
+    <li><s><a href="/2026/05/03/I-finally-surfed-in-2026.html">Surf in an ocean</a></s></li>
     <li><s>Paraglide & Bungee jumping.</s></li>
 
     <li>Do scuba dive!</li>
